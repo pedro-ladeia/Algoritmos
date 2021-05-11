@@ -5,3 +5,7 @@ function fatorial(numero){
     }
     return soma
 } 
+/* A função recebe um argumento, o numero a ser calculado o fatorial, e
+através do laço for, o valor da variável c é atribuída a variável soma
+e multiplica pelo valor de C - 1 e, armazenando a soma, a função retorna
+soma */
