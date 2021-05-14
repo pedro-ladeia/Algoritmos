@@ -14,7 +14,7 @@ function somar(arr) {
     return total
 }
 
-/* O programa calcula a soma entre um intervalo de números.
+/* O programa calcula a soma entre um intervalo de dois números.
 A função recebe um array contendo os dois números que delimitam o intervalo
 e declara uma variável para receber o resultado. Um if é criado para 
 verificar se o primeiro valor é maior do que o segundo. Através do laço for
