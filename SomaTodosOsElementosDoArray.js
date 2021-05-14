@@ -5,3 +5,7 @@ function somar(array){
     }
     return total
 }
+ /* A função recebe um argumento, array, e o laço for passa por cada
+ elemento do array, somando e armazenando na variável total, retornando
+ a mesma. */
+ 
